@@ -8,7 +8,7 @@
   // ---------------------------
   // Config
   // ---------------------------
-  const AUTH_ENDPOINT = 'https://backendsupport-yjus.onrender.com/auth';
+  const AUTH_ENDPOINT = 'https://authentication-8e1c.onrender.com/auth';
 
   // DOM elements
   const modalOverlay = document.getElementById('modalOverlay');
@@ -288,3 +288,4 @@
   });
 
 })();
+
